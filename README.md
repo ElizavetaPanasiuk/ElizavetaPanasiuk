@@ -12,6 +12,9 @@ I study well and have average mark 8,7. But I usually try to do more than It's r
 
 I study IT-management, testing, economy, business-analysis, different technologies and software at university.
 ____
+##Certificates
+[JavaScript (Rolling Scopes School, 2021)](https://app.rs.school/certificate/ucnowxb2)
+____
 ## Skills
 1. Front-end development (HTML, CSS, JavaScript, SASS)
 2. MS Office (Access, Excel, Project, PowerPoint)

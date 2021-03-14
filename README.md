@@ -5,7 +5,7 @@ I know a lot about web-development. I finished courses on front-end development.
 ## Education
 I'm a student of BSEU, Faculty of Digital Economy, 3rd course, Economical Informatics.
 I study well and have average mark 8,7. But I usually try to do more than It's requires at university. I study new spheres and technologies.
-I study IT-management, testing, ecomomy, business-analysis, different technologies and software at university.
+I study IT-management, testing, economy, business-analysis, different technologies and software at university.
 ## Skills
 1. Front-end development (HTML, CSS, JavaScript, SASS)
 2. MS Office (Access, Excel, Project, PowerPoint)

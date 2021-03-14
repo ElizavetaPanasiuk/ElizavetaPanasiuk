@@ -1,5 +1,5 @@
 # About me
-Hello! My name is Elizaveta. I'm 20 years old. Now I want to start a career in IT. I like front-end, but I think I have capabilities in management, so I also want to try myself in project management.
+Hello! My name is Elizaveta. I'm 20 years old. Now I want to start a career in IT. I like front-end, but I think I have capabilities in management, so I want to try myself in project management.
 I like to plan and distribute tasks. I want to learn how to communicate with people and colleagues. I want to grow in this sphere and become a great specialist.
 I know a lot about web-development. I finished courses on front-end development. But I think It's more interesting for me to organize work in company, to make plans and rise efficiency of work. I think it's mine and I want to try myself in it.
 ## Education

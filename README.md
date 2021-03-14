@@ -2,6 +2,9 @@
 Hello! My name is Elizaveta. I'm 20 year old. Now I want to start career in IT. I like front-end, but I think I have capabilities in management, so I also want to try myself in project management.
 I like to plan and distribute tasks. I want to learn how to communicate with people and colleagues. I want to grow in this sphere and become a great specialist.
 I know a lot about web-development. I finished courses on front-end development. But I think It's more interesting for me to organise work in company, to make plans and rise efficiency of work. I think it's mine and I want to try myself in it.
+## Education
+I'm a student of BSEU, Faculty of Digital Economy, 3th course, Ecomonical Informatics.
+I study well and have average mark 8,7. But I usually try to do more then It's requires at univercity. I study new spheres and technologies.
 ## Skills
 1. Front-end development (HTML, CSS, Javascript, SASS)
 2. MS Office (Access, Excel, Project, PowerPoint)
